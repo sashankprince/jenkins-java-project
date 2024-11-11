@@ -15,7 +15,7 @@
 		<dependency>
 		    <groupId>com.oracle.bedrock</groupId>
 		    <artifactId>bedrock-runtime-maven</artifactId>
-		    <version>0.0.21</version>
+		    <version>5.3.25</version>
 		</dependency>
 		
 		<dependency>
